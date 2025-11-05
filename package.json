@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-intro",
+  "version": "1.0.0",
+  "description": "learn blockchain and node.js by myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcheung0306/blockchain-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexcheung0306/blockchain-intro/issues"
+  },
+  "homepage": "https://github.com/alexcheung0306/blockchain-intro#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "readline-sync": "^1.4.10"
+  }
+}
